@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FConline/static/css/main.7caa7282.css",
+    "main.js": "/FConline/static/js/main.55bbfc46.js",
+    "static/js/787.25a4fdca.chunk.js": "/FConline/static/js/787.25a4fdca.chunk.js",
+    "index.html": "/FConline/index.html",
+    "main.7caa7282.css.map": "/FConline/static/css/main.7caa7282.css.map",
+    "main.55bbfc46.js.map": "/FConline/static/js/main.55bbfc46.js.map",
+    "787.25a4fdca.chunk.js.map": "/FConline/static/js/787.25a4fdca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7caa7282.css",
+    "static/js/main.55bbfc46.js"
+  ]
+}
